@@ -1,0 +1,6 @@
+model_name: modelb
+formula: excelent
+granularities:
+- gg
+- hh
+- jj

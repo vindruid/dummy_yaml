@@ -1,0 +1,6 @@
+model_name: modela
+formula: awesome
+granularities:
+- aa
+- bb
+- dd
